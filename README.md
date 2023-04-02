@@ -1,4 +1,5 @@
 # Prosper Loan Data Exploration
+Analysis and visualization of what purpose borrowers use loan
 ## by Natalie Nguyen
 
 
